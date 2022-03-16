@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/shreevish",
-  "website": "https://github.com/SpEcHiDe/shreevish",
-  "repository": "https://github.com/SpEcHiDe/shreevish",
+  "website": "https://github.com/ItsMeAndrew1999/Tg-File-To-Video-Converter---2",
+  "repository": "https://github.com/ItsMeAndrew1999/Tg-File-To-Video-Converter---2",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
