@@ -4,7 +4,7 @@
 
 ### Installation
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SatyuShree000/Tg-File-To-Video-Converter/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsMeAndrew1999/Tg-File-To-Video-Converter---2r/tree/master)
 
 ## Our Telegram Channel and Group
 
